@@ -21,7 +21,7 @@ public class BingoModel {
 		// https://www.besprechungsbingo.de/
 		DATA.put("Besprechungen", Arrays.asList(
 				"Synergie", "Sich schlau machen", "Wertschöpfung", "Ball zuspielen", 
-				"Global Player", "Kommunizieren", "Kunden orientiert", "KPI",
+				"SSC", "Kommunizieren", "Kunden orientiert", "KPI",
 				"Problematik", "Proaktiv", "Visionen", "Fokussieren", 
 				"Zielführend", "Bilateral", "Hut aufhaben", "Wertschätzend"));
 	}
